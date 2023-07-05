@@ -10,6 +10,7 @@ Performance Testing </br>
 - BrowserStack Performance Report </br>
 - GTMetrix Performance Report </br>
 - Google LightHouse Performance Report </br>
+- WebPageTest Performance Report
 
 
 
