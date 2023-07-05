@@ -17,4 +17,5 @@ Security Testing
 - Snyk Serucity Testing </br>
 
 HtmlReports </br>
+Allure Reports </br>
 
