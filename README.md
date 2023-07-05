@@ -7,4 +7,6 @@ Unittest Folder </br>
      - unittest.py </br>
 Postman API Testing </br>
 Performance Testing </br>
+- BrowserStack Performance Report </br>
+
 
