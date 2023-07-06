@@ -26,3 +26,17 @@ Allure Reports </br>
 12). Bug Reports </br>
 13). Checklists </br>
 14). Assessments </br>
+
+Selenium
+
+DOM
+
+Script
+
+Allure Report 1
+
+Allure Report 2
+
+HTML Report
+
+
