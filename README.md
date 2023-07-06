@@ -39,4 +39,7 @@ Allure Report 2
 
 HTML Report
 
+Languages and Tools
+JavaScipt Python Postman HTML selemiun
+
 
