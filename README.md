@@ -2,7 +2,7 @@
 
 1). TestPlan.pdf </br>
 2). Acceptance Criteria Definitions </br>
-3). ManualTesting.xlsx </br>
+3). ManualTesting.xlsx (Test Cases)</br>
 5). Unittest Folder </br>
      - helpers.py </br>
      - unittest.py </br>
